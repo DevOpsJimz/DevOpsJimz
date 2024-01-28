@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, How ya doin? It'z DevOpsJimz👋
 
 <!--
 **DevOpsJimz/DevOpsJimz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
